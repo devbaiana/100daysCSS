@@ -1,0 +1,115 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:700,300);
+
+.frame {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 400px;
+  height: 400px;
+  margin-top: -200px;
+  margin-left: -200px;
+  border-radius: 2px;
+	box-shadow: 4px 8px 16px 0 rgba(0,0,0,0.1);
+	overflow: hidden;
+  color: #333;
+	font-family: 'Open Sans', Helvetica, sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.center {
+background-color: beige;
+}
+ /*minha formatação*/
+ body{
+     background-color: #e58840;
+ }
+
+ .center{
+     display: flex;
+
+ }
+ .main{
+
+    background-color: beige;
+    height: 400px;
+    width: 250px;
+    padding: 3px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+ }
+ .h1{
+     font-weight: bolder;
+     margin-top: 0;
+     margin-bottom: 1px;
+ }
+ .h2{
+     margin-top: 1px;
+     margin-bottom: 25px;
+     font-size: medium;
+ }
+ .fatcat{
+     width: 80px;
+     border-radius: 50%;
+     border: #000 1px solid;
+ }
+ a{
+     border: 1px solid #333;
+     border-radius: 40px;
+     text-decoration: none;
+     padding: 5px;
+     padding-top: 2px;
+     width: 100px;
+     text-align: center; 
+     margin-bottom: 15px; 
+     color:#333;   
+ }
+ a:visited {
+    color: none;
+}
+a:hover{
+    background-color: #333;
+    color: beige;
+}
+ .sidebar{
+     display: block;
+     background-color: beige;
+     height: 400px;
+     width: 150px;
+     text-align: center;
+     vertical-align: baseline;
+ }
+ .S1{
+     background-color: #f7d0cd;
+     height: 132px;
+     display : flex;
+ align-items : center;
+ justify-content : center;
+ }
+.S1:hover{
+    background-color: #dbc5c3;
+}
+ .S2{
+    background-color: #f7d0cd;
+    height: 132px;
+    margin-top: 3px;
+    display : flex;
+    align-items : center;
+    justify-content : center;
+}
+.S2:hover{
+    background-color: #dbc5c3;
+}
+.S3{
+    background-color: #f7d0cd;
+    height: 132px;
+    margin-top: 3px;
+    display : flex;
+    align-items : center;
+    justify-content : center;
+}
+.S3:hover{
+    background-color: #dbc5c3;
+}
