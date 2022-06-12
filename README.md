@@ -1,6 +1,4 @@
-# 100daysCSS
-
-# Bem vindo(a) Repositório. 
+# Bem vindo(a) ao meu Repositório do CSS Challenge. 
 ![Welcome](https://github.com/devbaiana/100daysCSS/blob/main/100.PNG)
 #                                                              Tour pela aplicação
 ###                                                             Overview, Tecnologias
